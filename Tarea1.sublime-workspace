@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"U",
+				"UL\tTag"
+			],
+			[
+				"S",
+				"SECTION\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"fa",
+				"factorialRecursivo"
+			],
+			[
+				"factori",
+				"factorialIterativo"
+			],
+			[
+				"re",
+				"recorre_parametros_arbitrarios"
+			],
+			[
+				"ar",
+				"argumento"
+			],
+			[
+				"pa",
+				"parametros_fijo"
+			],
+			[
+				"datos",
+				"datos_recibidos"
+			],
+			[
+				"num",
+				"numCta"
+			],
+			[
+				"r",
+				"raizCuadrada"
+			],
+			[
+				"val",
+				"valor_regreso"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"la",
+				"label5"
+			],
+			[
+				"RE",
+				"recvIP"
+			],
+			[
+				"c",
+				"content_type"
+			],
+			[
+				"i",
+				"item3"
+			],
+			[
+				"sen",
+				"send_message"
+			],
+			[
+				"se",
+				"send_message"
+			],
+			[
+				"va",
+				"vanijorBot"
+			],
+			[
+				"g",
+				"get_me"
+			],
+			[
+				"e",
+				"expresion"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"el",
+				"elQueRecibe"
+			],
+			[
+				"st",
+				"smtpObjeto"
+			],
+			[
+				"smtp",
+				"smtpObjeto"
+			],
+			[
+				"venta",
+				"ventana"
+			],
+			[
+				"D",
+				"DBManager"
+			],
+			[
+				"ti",
+				"tkinter"
+			],
+			[
+				"gmail",
+				"gmail_User"
+			],
+			[
+				"t",
+				"threading"
+			],
+			[
+				"cor",
+				"correos"
+			],
+			[
+				"nu",
+				"numerosErroneos"
+			],
+			[
+				"co",
+				"correoErroneos"
+			],
+			[
+				"v",
+				"validoCel"
+			],
+			[
+				"agre",
+				"agregar_una_vez"
+			],
+			[
+				"Va",
+				"ValorMuyAlto"
+			],
+			[
+				"Valo",
+				"ValorMuyBajo"
+			],
+			[
+				"Valor",
+				"ValorMuyAlto"
+			],
+			[
+				"Mi",
+				"MiExcepcion"
+			],
+			[
+				"total",
+				"totalC"
+			],
+			[
+				"Cuen",
+				"CuentaPalabras"
+			],
+			[
+				"lis",
+				"listaNumeros"
+			],
+			[
+				"PA",
+				"palUsuario"
+			],
+			[
+				"pal",
+				"palUsuario"
+			],
+			[
+				"n",
+				"numeroInsertado"
+			],
+			[
+				"grados",
+				"grados"
+			],
+			[
+				"es",
+				"especie"
+			],
+			[
+				"__",
+				"__nombre"
+			],
+			[
+				"norma",
+				"normaMejorada"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"f",
+				"Fahrenheit"
+			],
+			[
+				"F",
+				"Fahrenheit"
+			],
+			[
+				"op",
+				"opcionMenu"
+			],
+			[
+				"opc",
+				"opción"
+			],
+			[
+				"dona",
+				"donacion"
+			],
+			[
+				"pres",
+				"prestarDinero"
+			],
+			[
+				"P",
+				"Persona3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vaniamartineztroncoso/Documents/CursoWEB/Basico/TareasBasico/Tarea1.html",
+		"/Users/vaniamartineztroncoso/Documents/CursoWEB/Tareas/TareaClase1.html",
+		"/Users/vaniamartineztroncoso/Documents/CursoWEB/Basico/tareaClase1/TareaClase1.html",
+		"/Users/vaniamartineztroncoso/Documents/CursoWEB/Basico/MiPrimerProyecto/Index.html",
+		"/Users/vaniamartineztroncoso/Documents/CursoWEB/Basico/Tarea1/tarea1.html",
+		"/Users/vaniamartineztroncoso/Documents/CursoWEB/Basico/Tarea1/Tarea1.html",
+		"/Users/vaniamartineztroncoso/Documents/WEB",
+		"/Volumes/VANIA/Obras, Terracería y Maquinaria/OBRAS, TERRACERIA Y MAQUINARIA SA DE CV",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/BusquedaLineal.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/filtros.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/Promedio.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/Sumador.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/Contador.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/Tuplas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/numeros.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/Matrix.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/Listas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/Diccionarios.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Semestral/cadenas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/JorgeClase/Factoriales.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/JorgeClase/Parametros.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/JorgeClase/Funcion2.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/Modulo.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/EjericioJorgeFunciones.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/Supercalculadora2017.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/SwithGuia.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/Clase3/Funciones12017.py",
+		"/Users/vaniamartineztroncoso/Desktop/jorgePROTECO/claseMiercoles/promociones.html",
+		"/Users/vaniamartineztroncoso/Desktop/jorgePROTECO/claseMiercoles/contacto.html",
+		"/Users/vaniamartineztroncoso/Desktop/jorgePROTECO/claseMiercoles/unete.html",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/markers.json",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/libro.xml",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/libro.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/ejXML.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/clase2/Diccionario.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/clase2/Tupla.py",
+		"/Users/vaniamartineztroncoso/Desktop/lol.html",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/TiposDatos/Listas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/proyectoIntermedio/pruebas/sqLait.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Place.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/proyectoIntermedio/proyI.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/Ejemplo2csv.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/Ejemploscv.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/Directorio.csv",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/Datos.csv",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/Datos.scv",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/Copia.csv",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/ArchivoCSV.csv",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/ArchivoCSVEje.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/Archivo2J.json",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/ArchivoJ.json",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/archivoCSV.csv",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/ManeFichFormatos/untitled.xml",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/CuentaPalabras.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/CopiarArchivoaOtro.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/CopiaPares.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Intermedio/Script/BuscarPalabra.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/POO/Polimorfismo.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/POO/Multiherencia.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/POO/Persona4.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/POO/Persona3.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/POO/Persona2.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/POO/PrimerEjemploPOO.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/POO/Herencia.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/ProgrEstructurada/While.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/ProgrEstructurada/SwithGuia.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/ProgrEstructurada/SwitchDicc.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/ProgrEstructurada/CicloFor.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/ProgrEstructurada/SuperCalculadora.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/Tuplas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/Numericos.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/Listas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/Diccionarios.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/Conjuntos.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/Cadenas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python-Moodle/Basico/Scripts/Booleanos.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase4Hilos/Cliente.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase3/Ej4ML.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase3/Ej3ML.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase3/Ej2Ml.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase3/Matplotlib.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase3/Loro.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase3/General.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase3/LlaveTelegram.txt",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/ProyectoBasico/calcPoli.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/ProyectoBasico/ProyectoBAsico.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase2/EjNumpy.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase2/Ejsimpy.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/SendMail.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase2/LlaveTel.txt",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase2/LlaveTw.text",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase2/LlaveFB.txt",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/ProyectoBasico/Gato.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonBásico/ProyectoBasico/calcComplejos.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Interfaces/Gif.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Interfaces/Imagenes.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Interfaces/Entradas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Interfaces/PaletaColores.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Interfaces/Colores.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase1/PyVaniDrop.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonAvanzado/Clase1/llave.txt",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/Excepciones.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Menu.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase4Hilos/Servidor.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Combobox.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Linkbox.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/RadioButton.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/ListButton.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Botones.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Grip.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Gesturas.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase5/Ventana.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/TareasPythonIntermedio/TareaDiccArchExc.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase4Hilos/banco.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase4Hilos/HolaHilos.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase4Hilos/Hilo.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase4Hilos/Saludo.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/TareasPythonIntermedio/Intento1.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/EjempleEr.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/TareasPythonIntermedio/Tarea2VE.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/MiExcepcion.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/ER2.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/General.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/TareasPythonIntermedio/DiccionarioArchivo.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/TareasPythonIntermedio/DatosDicc.txt",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/Typerror.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/Lista.py",
+		"/Users/vaniamartineztroncoso/Documents/Curso Python/CursoPythonIntermedio/Clase2/Diccionariocolor.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Tarea1.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
